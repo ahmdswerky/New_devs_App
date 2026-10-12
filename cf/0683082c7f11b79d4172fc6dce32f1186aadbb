@@ -1,0 +1,52 @@
+backend/app/core/auth.py
+  s_0b0e234895fc7d::t_420884cc8dd732 87-90,120-121,247-251,493-497
+backend/app/core/tenant_resolver.py
+  s_0b0e234895fc7d::t_29e7e1aaf231ca 24,61,70,80-81
+docker-compose.yml
+  s_0b0e234895fc7d::t_7fbe102855a840 11
+database/schema.sql
+  s_0b0e234895fc7d::t_7fbe102855a840 14,24-25,34-35,38-48
+backend/app/core/database_pool.py
+  s_0b0e234895fc7d::t_d74e4aacea1f0c 1-2,18-19,53-66
+  s_0b0e234895fc7d::t_d5fea037c6382e 67
+frontend/src/components/RevenueSummary.tsx
+  s_0b0e234895fc7d::t_bd448f55057de6 16,24,26,38
+  s_0b0e234895fc7d::t_4ec43d45acf5f2 27
+backend/requirements.txt
+  s_0b0e234895fc7d::t_d74e4aacea1f0c 21
+backend/app/services/reservations.py
+  s_0b0e234895fc7d::t_4ec43d45acf5f2 77
+  s_0b0e234895fc7d::t_25183a7d9be526 36-37,39-76,78-83
+frontend/src/components/Dashboard.tsx
+  s_0b0e234895fc7d::t_ec173d13dee7bd 1,3,6-17,42,53
+frontend/src/lib/secureApi.ts
+  s_0b0e234895fc7d::t_4ec43d45acf5f2 1455,1464
+  s_0b0e234895fc7d::t_81aa10a6b06d61 1453,1457-1458,1460-1463
+backend/app/main.py
+  s_0b0e234895fc7d::t_d74e4aacea1f0c 103-106
+backend/app/api/v1/dashboard.py
+  s_0b0e234895fc7d::t_29fe56c9320cd0 2,4,9-29,35-45,47,52
+backend/app/services/cache.py
+  s_0b0e234895fc7d::t_50d03bc1d99c5f 13-17,30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cf0683082c7f11b79d4172fc6dce32f1186aadbb",
+  "prompts": {},
+  "humans": {
+    "h_aa9d2f4bca268e": {
+      "author": "Swerky <ahmdswerky@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_0b0e234895fc7d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d19c8776-4027-4847-9de1-e7b7d466728f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Swerky <ahmdswerky@gmail.com>"
+    }
+  }
+}
