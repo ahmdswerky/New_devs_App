@@ -1,0 +1,14 @@
+README.md
+  h_aa9d2f4bca268e 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "58271d1d212967c73940336056a1521c38cf4492",
+  "prompts": {},
+  "humans": {
+    "h_aa9d2f4bca268e": {
+      "author": "Swerky <ahmdswerky@gmail.com>"
+    }
+  }
+}
